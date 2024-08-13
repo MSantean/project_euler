@@ -1,3 +1,5 @@
+// https://projecteuler.net/problem=2
+
 #include <iostream>
 
 int fibonacci(int n) // starting with 1 and 2, nth fibonacci number f_n = f_{n-1} + f_{n-2}
